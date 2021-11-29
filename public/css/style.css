@@ -47,7 +47,7 @@ p{
   }
       
 body{
-    background-image: url(/public/images/images.png);
+    background-image: url("./public/images/images.png");
 }
 h2 {
     position: absolute;
